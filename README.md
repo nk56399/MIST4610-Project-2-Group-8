@@ -6,7 +6,7 @@ Group 8
 2. Mason Lee @mlee1921
 3. Vivienne Lin @vivi0404
 4. Daniel Mok @dlm90284-ai
-5. Austin Middlebrooks @Amiddlebrooks
+5. Austin Middlebrooks [@Amiddlebrooks](https://github.com/Amiddlebrooks/Project-2-Group-8) 
    
 # Scenario Description:
 
