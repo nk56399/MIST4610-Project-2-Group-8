@@ -2,11 +2,12 @@
 # Team Name:
 Group 8
 # Team Members:
-1. Neha Kanakamedala @nk56399
+1. Neha Kanakamedala [@nk56399](https://github.com/nk56399/Project-2-Group-8)
 2. Mason Lee @mlee1921
 3. Vivienne Lin @vivi0404
 4. Daniel Mok @dlm90284-ai
 5. Austin Middlebrooks @Amiddlebrooks
+   
 # Scenario Description:
 
 Our team is designing a Bookstore Management Database System that supports operations such as tracking books, authors, customer activity, employee management, orders, payments, inventory levels, and book reviews. The system stores detailed information about each book, including its authors, genres, publisher, inventory, and sales performance. Customers can place orders for books, submit reviews, and make payments, all of which are recorded in the database. The database also supports storing employee records, supervisor relationships, and revenue information. The system helps identify best-selling authors, monitor unpaid orders, review customer engagement, identify top-rated books, evaluate publisher performance, and detect low inventory risks. Overall, this relational database focuses on library and bookstore operations while supporting strategic decision-making and customer engagement tracking.
