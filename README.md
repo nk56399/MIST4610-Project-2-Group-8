@@ -115,7 +115,7 @@ Query 5
 Name of the Database: cs_mhl67797 or cs_jam37624
 
 # Tableau Visualizations
-<img width="2132" height="640" alt="image" src="https://github.com/user-attachments/assets/ca64301d-300c-4e57-8173-543f8da12dcf" />
+<img width="2134" height="642" alt="image" src="https://github.com/user-attachments/assets/31e9522f-5dfd-4445-a717-579d35afd0bb" />
 <img width="2132" height="600" alt="image" src="https://github.com/user-attachments/assets/6f088d96-cab3-4d77-b83e-532db479fbdb" />
 <img width="2132" height="1290" alt="image" src="https://github.com/user-attachments/assets/1010f0b1-8ec6-452c-b68a-13434f604b61" />
 
